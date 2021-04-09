@@ -1,4 +1,4 @@
-GATSBI: Generative Agent-centric Spatio-temporal Object Interaction
+# GATSBI: Generative Agent-centric Spatio-temporal Object Interaction
 [[Project Page], under construction](http://3d.snu.ac.kr/) [[Paper], Arxiv soon!](http://3d.snu.ac.kr/)
 
 **GATSBI: Generative Agent-centric Spatio-temporal Object Interaction**  
