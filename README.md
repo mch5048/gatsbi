@@ -10,6 +10,13 @@
 ### Prerequisites
 - Linux
 
+### Samples
+- TBA
+![Generated sample 1](https://user-images.githubusercontent.com/20310517/114306705-a7668900-9b17-11eb-9616-f6f03d3cc13c.gif)
+![Generated sample 2](https://user-images.githubusercontent.com/20310517/114306710-ac2b3d00-9b17-11eb-8df0-f35d7fe63fe1.gif)
+![Generated sample 3](https://user-images.githubusercontent.com/20310517/114306725-bea57680-9b17-11eb-8330-e674ad872020.gif)
+![Generated sample 4](https://user-images.githubusercontent.com/20310517/114306734-c82ede80-9b17-11eb-812a-45ff4c908c68.gif)
+
 
 ## Citation
 If you find this useful for your research, please use the following.
