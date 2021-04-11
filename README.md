@@ -4,13 +4,13 @@
 **GATSBI: Generative Agent-centric Spatio-temporal Object Interaction CVPR'2021 (Oral presentation)**  
 [Cheol-Hui Min](http://3d.snu.ac.kr/members/), [Jinseok Bae](http://3d.snu.ac.kr/members/), [Junho Lee](http://3d.snu.ac.kr/members/), [Young Min Kim](http://3d.snu.ac.kr/members/) @3D_Vision_Lab, Seoul National University
 
-## Getting started ###
+## Getting started
 - Code and dataset will be released soon! (late May)
 
 ### Prerequisites
 - Linux
 
-### Samples
+## Samples
 - TBA
 
 ![Generated sample 1](https://user-images.githubusercontent.com/20310517/114306705-a7668900-9b17-11eb-9616-f6f03d3cc13c.gif)
