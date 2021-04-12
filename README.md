@@ -1,5 +1,5 @@
 # GATSBI: Generative Agent-centric Spatio-temporal Object Interaction
-[[Project Page], under construction](http://3d.snu.ac.kr/) [[Paper], Arxiv soon!](http://3d.snu.ac.kr/)
+[[Project Page], under construction](http://3d.snu.ac.kr/) [[Paper + Supplementary]](https://arxiv.org/abs/2104.04275)
 
 **GATSBI: Generative Agent-centric Spatio-temporal Object Interaction CVPR'2021 (Oral presentation)**  
 [Cheol-Hui Min](http://3d.snu.ac.kr/members/), [Jinseok Bae](http://3d.snu.ac.kr/members/), [Junho Lee](http://3d.snu.ac.kr/members/), [Young Min Kim](http://3d.snu.ac.kr/members/) @3D_Vision_Lab, Seoul National University
