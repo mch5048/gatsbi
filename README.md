@@ -5,7 +5,8 @@
 [Cheol-Hui Min](http://3d.snu.ac.kr/members/), [Jinseok Bae](http://3d.snu.ac.kr/members/), [Junho Lee](http://3d.snu.ac.kr/members/), [Young Min Kim](http://3d.snu.ac.kr/members/) @3D_Vision_Lab, Seoul National University
 
 ## Getting started
-- Code and dataset will be released soon! (late May)
+- Sorry for the inconvenience. The implementation got through complete refactoring and will be delivered with the [ray rllib](https://docs.ray.io/en/latest/rllib/index.html) integration for easy experiments for reinforcement learning.
+- Code will released within a couple of weeks.
 
 ### Prerequisites
 - Linux
